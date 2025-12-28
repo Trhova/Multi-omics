@@ -3,6 +3,8 @@
 These are good entry points for the specific methods discussed in this repo.
 
 - DIABLO: Singh et al., *Bioinformatics* (2019). “DIABLO: an integrative approach for identifying key molecular drivers from multi-omic assays.”
+  - mixOmics vignette: https://mixomicsteam.github.io/mixOmics-Vignette/
+  - Walkthrough video (mixOmics integration): https://youtu.be/5XpmQ5X89lA?si=MG9tNfviAgSYsqjo
 - DIVAS: Prothero et al. “Data Integration via Analysis of Subspaces (DIVAS)” (journal + arXiv).
   - R implementation: https://github.com/ByronSyun/DIVAS_Develop
   - Case study vignette: https://byronsyun.github.io/DIVAS_COVID19_CaseStudy/
@@ -13,7 +15,9 @@ These are good entry points for the specific methods discussed in this repo.
 Copy/paste links:
 
 ```
-DIABLO (Bioinformatics): https://academic.oup.com/bioinformatics/article/35/17/3055/5292387
+DIABLO (Bioinformatics):      https://academic.oup.com/bioinformatics/article/35/17/3055/5292387
+DIABLO (mixOmics vignette):   https://mixomicsteam.github.io/mixOmics-Vignette/
+DIABLO (walkthrough video):   https://youtu.be/5XpmQ5X89lA?si=MG9tNfviAgSYsqjo
 
 DIVAS (Springer journal page): https://link.springer.com/article/10.1007/s11749-024-00923-z
 DIVAS (arXiv):                https://arxiv.org/abs/2212.00703
