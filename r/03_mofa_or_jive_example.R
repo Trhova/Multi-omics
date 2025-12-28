@@ -1,4 +1,6 @@
-# Placeholder for MOFA / JIVE demo.
-# This repo keeps heavy dependencies optional.
+# MOFA / JIVE demo (optional)
+# Kept minimal because these methods require additional dependencies.
 
-cat("This is a placeholder. Add a MOFA2 or JIVE demo here if you want it runnable.\n")
+cat(
+  "MOFA/JIVE demo not included by default. If you install MOFA2 (Bioconductor) or a JIVE implementation, add an example here.\n"
+)

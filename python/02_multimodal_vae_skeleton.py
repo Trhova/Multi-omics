@@ -1,7 +1,5 @@
 """Multi-omics integration demo: linear latent baseline + optional multi-modal VAE.
 
-This file replaces the old placeholder with something that actually runs on the toy example.
-
 What it does
 - Loads `data/toy_multiomics_4patients.csv`.
 - Builds 3 aligned blocks (microbiome, metabolomics, transcriptomics) + a group label.
